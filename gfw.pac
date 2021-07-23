@@ -10576,6 +10576,7 @@ var cnips = [
 ];
 
 var directDomains = {
+  "cxyzjd.com":,1,
   "10010.com": 1,
   "115.com": 1,
   "123u.com": 1,
